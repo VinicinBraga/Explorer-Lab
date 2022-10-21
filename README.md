@@ -4,6 +4,8 @@
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
+
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,8 +19,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
+## :heavy_check_mark: Resultado: https://explorer-lab-rose.vercel.app/
+
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+   <img src="./images/site.png" width="600" title="3 text">
 </p>
 
 ## 🚀 Tecnologias
@@ -46,7 +50,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-# Explorer-Lab
-# Explorer-Lab
-# Explorer-Lab
 # Explorer-Lab
